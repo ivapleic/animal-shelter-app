@@ -35,7 +35,7 @@ The data is served from a local JSON file through `json-server`.
 ### Animals
 
 <p align="center">
-  <img src="docs/screenshots/animals.png" alt="Animals page" width="100%" />
+  <img src="docs/screenshots/Animals.png" alt="Animals page" width="100%" />
 </p>
 
 <br />
@@ -43,7 +43,7 @@ The data is served from a local JSON file through `json-server`.
 ### About us
 
 <p align="center">
-  <img src="docs/screenshots/about.png" alt="About us page" width="850" />
+  <img src="docs/screenshots/About.png" alt="About us page" width="850" />
 </p>
 
 <br />
@@ -51,7 +51,7 @@ The data is served from a local JSON file through `json-server`.
 ### Notifications
 
 <p align="center">
-  <img src="docs/screenshots/notifications.png" alt="Notifications page" width="850" />
+  <img src="docs/screenshots/Notifications.png" alt="Notifications page" width="850" />
 </p>
 
 <br />
