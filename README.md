@@ -35,7 +35,7 @@ The data is served from a local JSON file through `json-server`.
 ### Animals
 
 <p align="center">
-  <img src="docs/screenshots/animals.png" alt="Animals page" width="850" />
+  <img src="docs/screenshots/animals.png" alt="Animals page" width="100%" />
 </p>
 
 <br />
