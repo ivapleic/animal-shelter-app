@@ -2,7 +2,7 @@
 
 <img src="public/icons8-animal-shelter-50.png" alt="logo" width="70" />
 
-# Azil za životinje
+# Animal Shelter App
 
 **An animal shelter web app — browse pets up for adoption, read shelter news and get in touch.**
 
